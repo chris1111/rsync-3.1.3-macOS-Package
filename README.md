@@ -7,6 +7,9 @@
 - This package will install rsync in /usr/local/bin
 - He will also install the required man update for rsync
 
+### [Download ➤ rsync-3.1.3-macOS-Package.zip](https://github.com/chris1111/rsync-3.1.3-macOS-Package/releases)
+
+
 ### What is Rsync?
 - Rsync is a software tool for keeping file folders and directories synchronized. It can be used to upload files to a remote server and is particularly useful for minimizing data transfer when maintaining a mirror copy of local files on a remote server. Rsync can be used to copy data or as a daemon for providing directories to the network. Rsync is especially useful in controlling the bandwidth required for file transfer. Rsync was written to replace rcp and scp. It is widely used for its flexibility, speed and scriptability. It works on Windows, Mac OS and GNU/Linux.
 
