@@ -7,6 +7,8 @@
 - This package will install rsync in /usr/local/bin
 - He will also install the required man update for rsync
 
+![Modular Image Creation](https://i25.servimg.com/u/f25/18/50/18/69/screen58.png)
+
 ### [Download ➤ rsync-3.1.3-macOS-Package.zip](https://github.com/chris1111/rsync-3.1.3-macOS-Package/releases)
 
 
