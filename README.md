@@ -11,7 +11,7 @@
 - He will also install the required man update for rsync
 
 ### ** SIP ** You need  the SIP disable (System Integrity Protection) also the Gatekeeper disable
-- After install you can Enable the SIP Gatekeeper again
+- After install you can Enable the SIP and the Gatekeeper again
 
 ![Modular Image Creation](https://i25.servimg.com/u/f25/18/50/18/69/screen58.png)
 
